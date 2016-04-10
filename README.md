@@ -1,2 +1,2 @@
 # hello-world
-a test repository
+i am sandi-o
